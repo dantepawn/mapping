@@ -1,0 +1,3885 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 14.2514259, 49.6675773 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16467426126225150717",
+      "Location" : {
+        "Address" : "262 63 Kamýk nad Vltavou, Czechia",
+        "Business Name" : "Skalní město Velká",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6675773",
+          "Longitude" : "14.2514259"
+        }
+      },
+      "Published" : "2020-05-03T09:50:03Z",
+      "Title" : "Skalní město Velká",
+      "Updated" : "2020-05-03T09:50:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.256836, 49.664489 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=262+56+Svat%C3%BD+Jan,+Czechia&ftid=0x470b719aef47cae5:0xf4762ee01a29fb7c",
+      "Location" : {
+        "Latitude" : "49.664489",
+        "Longitude" : "14.256836"
+      },
+      "Published" : "2020-05-03T09:45:43Z",
+      "Title" : "Svatý Jan, 262 56, Czechia",
+      "Updated" : "2020-05-03T09:45:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.1587278, 44.0800324 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11002450789611599345",
+      "Location" : {
+        "Address" : "54100 Massa, Province of Massa and Carrara, Italy",
+        "Business Name" : "Muro di Kobra",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "44.0800324",
+          "Longitude" : "10.1587278"
+        }
+      },
+      "Published" : "2020-04-27T20:03:55Z",
+      "Title" : "Muro di Kobra",
+      "Updated" : "2020-04-27T20:03:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.5313559, 52.5023038 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13813711806594875356",
+      "Location" : {
+        "Address" : "Am Tierpark 125, 10319 Berlin, Germany",
+        "Business Name" : "Tierpark Berlin",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5023038",
+          "Longitude" : "13.5313559"
+        }
+      },
+      "Published" : "2020-04-15T16:48:18Z",
+      "Title" : "Tierpark Berlin",
+      "Updated" : "2020-04-15T16:48:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.564321, 36.881190 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=36.881190000000004,14.564321",
+      "Location" : {
+        "Latitude" : "36.881190",
+        "Longitude" : "14.564321"
+      },
+      "Published" : "2020-04-13T19:08:38Z",
+      "Title" : "36.881190000000004,14.564321",
+      "Updated" : "2020-04-13T19:08:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.831011, 52.562092 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=52.56209235312321,13.831010945141315",
+      "Location" : {
+        "Latitude" : "52.562092",
+        "Longitude" : "13.831011"
+      },
+      "Published" : "2020-04-12T16:39:24Z",
+      "Title" : "52.56209235312321,13.831010945141315",
+      "Updated" : "2020-04-12T16:39:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.1337110, 44.0903750 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8355300759659349815",
+      "Location" : {
+        "Address" : "Via Miseglia Fantiscritti, 54033 Carrara MS, Italy",
+        "Business Name" : "Cava Museo Fantiscritti",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "44.0903750",
+          "Longitude" : "10.1337110"
+        }
+      },
+      "Published" : "2020-04-08T11:26:54Z",
+      "Title" : "Cava Museo Fantiscritti",
+      "Updated" : "2020-04-08T11:26:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.6478658, 54.5510593 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11973669934408122347",
+      "Location" : {
+        "Address" : "Stubbenkammer 2a, 18546 Sassnitz, Germany",
+        "Business Name" : "Jasmund National Park",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "54.5510593",
+          "Longitude" : "13.6478658"
+        }
+      },
+      "Published" : "2020-04-01T20:01:59Z",
+      "Title" : "Jasmund National Park",
+      "Updated" : "2020-04-01T20:01:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.608314, 51.467837 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=116-106+Hampton+Rd,+Redland,+Bristol,+UK&ftid=0x48718de633a091cd:0xf9ee433a0134c28f",
+      "Location" : {
+        "Latitude" : "51.467837",
+        "Longitude" : "-2.608314"
+      },
+      "Published" : "2020-03-30T14:08:02Z",
+      "Title" : "116-106 Hampton Rd, Redland, Bristol, UK",
+      "Updated" : "2020-03-30T14:08:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.575390, 52.755381 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=52.75538065412227,13.57539039105177",
+      "Location" : {
+        "Latitude" : "52.755381",
+        "Longitude" : "13.575390"
+      },
+      "Published" : "2020-03-28T13:46:30Z",
+      "Title" : "52.75538065412227,13.57539039105177",
+      "Updated" : "2020-03-28T13:46:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.870471, 52.085316 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=52.08531602336809,13.870470933616161",
+      "Location" : {
+        "Latitude" : "52.085316",
+        "Longitude" : "13.870471"
+      },
+      "Published" : "2020-03-22T13:34:47Z",
+      "Title" : "52.08531602336809,13.870470933616161",
+      "Updated" : "2020-03-22T13:34:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4431370, 52.7593586 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5925370324908558158",
+      "Location" : {
+        "Address" : "16348 Wandlitz, Germany",
+        "Business Name" : "Wandlitz Strand Der 2 Stege",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.7593586",
+          "Longitude" : "13.4431370"
+        }
+      },
+      "Published" : "2020-03-20T15:31:34Z",
+      "Title" : "Wandlitz Strand Der 2 Stege",
+      "Updated" : "2020-03-20T15:31:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.050869, 52.567625 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=52.56762476060931,14.050869271159172",
+      "Location" : {
+        "Latitude" : "52.567625",
+        "Longitude" : "14.050869"
+      },
+      "Published" : "2020-03-15T15:49:41Z",
+      "Title" : "52.56762476060931,14.050869271159172",
+      "Updated" : "2020-03-15T15:49:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3474503, 52.4802428 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7079163455529321956",
+      "Location" : {
+        "Address" : "Fritz-Reuter-Straße 7, 10827 Berlin, Germany",
+        "Business Name" : "L’antica pizzeria da Michele",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4802428",
+          "Longitude" : "13.3474503"
+        }
+      },
+      "Published" : "2020-02-27T13:48:33Z",
+      "Title" : "L’antica pizzeria da Michele",
+      "Updated" : "2020-02-27T13:48:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4209555, 52.5365099 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1709419311153663746",
+      "Location" : {
+        "Address" : "Rykestraße 13, 10405 Berlin, Germany",
+        "Business Name" : "ABC - Allans Breakfast Club & Wine Bar",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5365099",
+          "Longitude" : "13.4209555"
+        }
+      },
+      "Published" : "2020-02-23T11:00:03Z",
+      "Title" : "ABC - Allans Breakfast Club & Wine Bar",
+      "Updated" : "2020-02-23T11:00:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.3536546, 50.8413367 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15661770362245375600",
+      "Location" : {
+        "Address" : "Rue des Minimes 1, 1000 Bruxelles, Belgium",
+        "Business Name" : "Marcolini",
+        "Country Code" : "BE",
+        "Geo Coordinates" : {
+          "Latitude" : "50.8413367",
+          "Longitude" : "4.3536546"
+        }
+      },
+      "Published" : "2020-02-13T19:30:55Z",
+      "Title" : "Marcolini",
+      "Updated" : "2020-02-13T19:30:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3371737, 52.5055734 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13276033865075301693",
+      "Location" : {
+        "Address" : "Budapester Straße 40, 10787 Berlin, Germany",
+        "Business Name" : "Monkey Bar",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5055734",
+          "Longitude" : "13.3371737"
+        }
+      },
+      "Published" : "2020-02-03T10:32:34Z",
+      "Title" : "Monkey Bar",
+      "Updated" : "2020-02-03T10:32:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4279260, 52.4749562 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15473005648049979703",
+      "Location" : {
+        "Address" : "Leykestraße 18, 12053 Berlin, Germany",
+        "Business Name" : "La Stella Nera",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4749562",
+          "Longitude" : "13.4279260"
+        }
+      },
+      "Published" : "2020-01-31T21:17:29Z",
+      "Title" : "La Stella Nera",
+      "Updated" : "2020-01-31T21:17:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.3085345, 42.4631519 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13762971887576147044",
+      "Location" : {
+        "Address" : "Via XXV Aprile, 61, 01030 Bassano In Teverina VT, Italy",
+        "Business Name" : "Comune di Bassano in Teverina",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4631519",
+          "Longitude" : "12.3085345"
+        }
+      },
+      "Published" : "2020-01-17T11:46:49Z",
+      "Title" : "Comune di Bassano in Teverina",
+      "Updated" : "2020-01-17T11:46:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.312030, 42.461677 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=01030+Bassano+in+Teverina,+VT,+Italy&ftid=0x132f26e3bd48a203:0x5028f8b34a570af8",
+      "Location" : {
+        "Latitude" : "42.461677",
+        "Longitude" : "12.312030"
+      },
+      "Published" : "2020-01-17T11:46:33Z",
+      "Title" : "Bassano in Teverina, 01030 VT, Italy",
+      "Updated" : "2020-01-17T11:46:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.4714923, 41.9000156 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10491340234698093594",
+      "Location" : {
+        "Address" : "Arco della Pace, 5, 00186 Roma RM, Italy",
+        "Business Name" : "Chiostro del Bramante",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.9000156",
+          "Longitude" : "12.4714923"
+        }
+      },
+      "Published" : "2020-01-17T11:22:02Z",
+      "Title" : "Chiostro del Bramante",
+      "Updated" : "2020-01-17T11:22:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4472980, 52.5207130 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11250973222639936256",
+      "Location" : {
+        "Address" : "Richard-Sorge-Straße 25A, 10249 Berlin, Germany",
+        "Business Name" : "Tilsiter Lichtspiele",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5207130",
+          "Longitude" : "13.4472980"
+        }
+      },
+      "Published" : "2020-01-10T21:03:55Z",
+      "Title" : "Tilsiter Lichtspiele",
+      "Updated" : "2020-01-10T21:03:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.9285749, 42.3661222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=527853521277855365",
+      "Location" : {
+        "Address" : "02015 Cittaducale RI, Italy",
+        "Business Name" : "Falesia di Grotti",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3661222",
+          "Longitude" : "12.9285749"
+        }
+      },
+      "Published" : "2020-01-08T07:33:25Z",
+      "Title" : "Falesia di Grotti",
+      "Updated" : "2020-01-08T07:33:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.1096739, 45.9310405 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15218355237453731733",
+      "Location" : {
+        "Address" : "Calliano, Via Castel Beseno, 38060 Besenello TN, Italy",
+        "Business Name" : "Castel Beseno",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "45.9310405",
+          "Longitude" : "11.1096739"
+        }
+      },
+      "Published" : "2020-01-04T21:15:32Z",
+      "Title" : "Castel Beseno",
+      "Updated" : "2020-01-04T21:15:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.363089, 44.197306 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=44.19730618731473,8.363088481128216",
+      "Location" : {
+        "Latitude" : "44.197306",
+        "Longitude" : "8.363089"
+      },
+      "Published" : "2020-01-04T09:17:14Z",
+      "Title" : "44.19730618731473,8.363088481128216",
+      "Updated" : "2020-01-04T09:17:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.359882, 44.189331 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=44.189330999999996,8.359881999999999",
+      "Location" : {
+        "Latitude" : "44.189331",
+        "Longitude" : "8.359882"
+      },
+      "Published" : "2020-01-02T09:58:09Z",
+      "Title" : "44.189330999999996,8.359881999999999",
+      "Updated" : "2020-01-02T09:58:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.274732, 38.083506 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=38.083506,13.274732",
+      "Location" : {
+        "Latitude" : "38.083506",
+        "Longitude" : "13.274732"
+      },
+      "Published" : "2019-12-28T14:16:44Z",
+      "Title" : "38.083506,13.274732",
+      "Updated" : "2019-12-28T14:16:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.404595, 44.182989 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Strada+Statale+1,+108,+17024+Varigotti+SV,+Italy&ftid=0x12d2fc0ce19a1233:0xf111b27cdd0ebde4",
+      "Location" : {
+        "Latitude" : "44.182989",
+        "Longitude" : "8.404595"
+      },
+      "Published" : "2019-12-26T10:45:03Z",
+      "Title" : "Strada Statale 1, 108, 17024 Varigotti SV, Italy",
+      "Updated" : "2019-12-26T10:45:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.198928, 44.438386 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+Olivetta,+77,+40037+Sasso+Marconi+BO,+Italy&ftid=0x132ad2da5bd0cf09:0x8715a7b254216198",
+      "Location" : {
+        "Latitude" : "44.438386",
+        "Longitude" : "11.198928"
+      },
+      "Published" : "2019-12-24T20:05:15Z",
+      "Title" : "Via Olivetta, 77, 40037 Sasso Marconi BO, Italy",
+      "Updated" : "2019-12-24T20:05:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4432725, 50.0724077 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=169125513721435861",
+      "Location" : {
+        "Address" : "Francouzská 713/48, Vinohrady, 102 00 Praha, Czechia",
+        "Business Name" : "Sdružení advokátů Mádlová & Gemrot",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0724077",
+          "Longitude" : "14.4432725"
+        }
+      },
+      "Published" : "2019-12-16T06:56:40Z",
+      "Title" : "Sdružení advokátů Mádlová & Gemrot",
+      "Updated" : "2019-12-16T06:56:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.402438, 44.182202 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Varigotti,+Province+of+Savona,+Italy&ftid=0x12d2fbf4b0199f5d:0xef0d5335703cf31a",
+      "Location" : {
+        "Latitude" : "44.182202",
+        "Longitude" : "8.402438"
+      },
+      "Published" : "2019-12-05T16:39:51Z",
+      "Title" : "Varigotti, Province of Savona, Italy",
+      "Updated" : "2019-12-05T16:39:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4093200, 52.5385080 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13185095800709387088",
+      "Location" : {
+        "Address" : "Kastanienallee 16, 10435 Berlin, Germany",
+        "Business Name" : "Hako Ramen Prenzlauer Berg",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5385080",
+          "Longitude" : "13.4093200"
+        }
+      },
+      "Published" : "2019-12-03T10:41:47Z",
+      "Title" : "Hako Ramen Prenzlauer Berg",
+      "Updated" : "2019-12-03T10:41:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3915339, 52.5066799 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1623497807966887921",
+      "Location" : {
+        "Address" : "Rudi-Dutschke-Straße 23, 10969 Berlin, Germany",
+        "Business Name" : "betahaus | Kreuzberg",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5066799",
+          "Longitude" : "13.3915339"
+        }
+      },
+      "Published" : "2019-12-03T10:32:04Z",
+      "Title" : "betahaus | Kreuzberg",
+      "Updated" : "2019-12-03T10:32:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.515027, 52.742666 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=52.742665936184316,13.515027277171612",
+      "Location" : {
+        "Latitude" : "52.742666",
+        "Longitude" : "13.515027"
+      },
+      "Published" : "2019-12-01T14:12:08Z",
+      "Title" : "52.742665936184316,13.515027277171612",
+      "Updated" : "2019-12-01T14:12:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.4754254, 41.8982749 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7298372981774856920",
+      "Location" : {
+        "Address" : "Piazza di S. Eustachio, 82, 00186 Roma RM, Italy",
+        "Business Name" : "Sant' Eustachio Il Caffè",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8982749",
+          "Longitude" : "12.4754254"
+        }
+      },
+      "Published" : "2019-11-23T15:40:45Z",
+      "Title" : "Sant' Eustachio Il Caffè",
+      "Updated" : "2019-11-23T15:40:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.425344, 50.069200 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Albertov+9,+128+00+Nov%C3%A9+M%C4%9Bsto,+Czechia&ftid=0x470b9461cff19bfd:0xb4d19703698bad96",
+      "Location" : {
+        "Latitude" : "50.069200",
+        "Longitude" : "14.425344"
+      },
+      "Published" : "2019-11-17T12:37:05Z",
+      "Title" : "Albertov 9, 128 00 Nové Město, Czechia",
+      "Updated" : "2019-11-17T12:37:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.338522, 52.527491 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Arminiusstra%C3%9Fe+2-4,+10551+Berlin&ftid=0x47a8510c94e75817:0xcb0aef760d849ab8",
+      "Location" : {
+        "Latitude" : "52.527491",
+        "Longitude" : "13.338522"
+      },
+      "Published" : "2019-11-11T15:21:58Z",
+      "Title" : "Arminiusstraße 2-4, 10551 Berlin",
+      "Updated" : "2019-11-11T15:21:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.5368601, 52.2635039 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7575618255824768844",
+      "Location" : {
+        "Address" : "Yorckstraße 46, 15749 Mittenwalde, Germany",
+        "Business Name" : "KONRAD Bakery & Café GmbH",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.2635039",
+          "Longitude" : "13.5368601"
+        }
+      },
+      "Published" : "2019-11-10T12:29:28Z",
+      "Title" : "KONRAD Bakery & Café GmbH",
+      "Updated" : "2019-11-10T12:29:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.9742851, 51.8665536 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2366232945907546881",
+      "Location" : {
+        "Address" : "Dammstraße 75, 03222 Lübbenau/Spreewald, Germany",
+        "Business Name" : "Boat rentals Richter / kayaking",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "51.8665536",
+          "Longitude" : "13.9742851"
+        }
+      },
+      "Published" : "2019-11-03T17:11:12Z",
+      "Title" : "Boat rentals Richter / kayaking",
+      "Updated" : "2019-11-03T17:11:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.4602913, 41.9056995 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17251921027649167433",
+      "Location" : {
+        "Address" : "Via Pomponio Leto, 1, 00193 Roma RM, Italy",
+        "Business Name" : "Passaguai",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.9056995",
+          "Longitude" : "12.4602913"
+        }
+      },
+      "Published" : "2019-11-03T16:22:32Z",
+      "Title" : "Passaguai",
+      "Updated" : "2019-11-03T16:22:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.4715044, 41.9231495 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3539104967485739171",
+      "Location" : {
+        "Address" : "Via Flaminia, 226, 00196 Roma RM, Italy",
+        "Business Name" : "Treebar",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.9231495",
+          "Longitude" : "12.4715044"
+        }
+      },
+      "Published" : "2019-11-03T16:21:57Z",
+      "Title" : "Treebar",
+      "Updated" : "2019-11-03T16:21:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4193060, 52.5519430 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10950842182876736015",
+      "Location" : {
+        "Address" : "Greifenhagener Straße 31, 10437 Berlin, Germany",
+        "Business Name" : "Wok Show 北方水饺",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5519430",
+          "Longitude" : "13.4193060"
+        }
+      },
+      "Published" : "2019-11-01T20:34:36Z",
+      "Title" : "Wok Show 北方水饺",
+      "Updated" : "2019-11-01T20:34:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3952436, 52.5322602 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6877167201291786663",
+      "Location" : {
+        "Address" : "Invalidenstraße 151, 10115 Berlin, Germany",
+        "Business Name" : "Griffin A.G. Foundation",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5322602",
+          "Longitude" : "13.3952436"
+        }
+      },
+      "Published" : "2019-10-29T17:23:09Z",
+      "Title" : "Griffin A.G. Foundation",
+      "Updated" : "2019-10-29T17:23:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3736449, 52.5000503 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16047692703231550475",
+      "Location" : {
+        "Address" : "Schöneberger Straße 16, 10963 Berlin, Germany",
+        "Business Name" : "BRLO Brwhouse",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5000503",
+          "Longitude" : "13.3736449"
+        }
+      },
+      "Published" : "2019-10-29T17:22:08Z",
+      "Title" : "BRLO Brwhouse",
+      "Updated" : "2019-10-29T17:22:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.4994439, 41.9113549 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13607156875756607422",
+      "Location" : {
+        "Address" : "Via Bergamo, 15, 00198 Roma RM, Italy",
+        "Business Name" : "Farina nel Sacco Roma",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.9113549",
+          "Longitude" : "12.4994439"
+        }
+      },
+      "Published" : "2019-10-17T14:06:44Z",
+      "Title" : "Farina nel Sacco Roma",
+      "Updated" : "2019-10-17T14:06:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5019557, 41.8956851 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2724446657651913607",
+      "Location" : {
+        "Address" : "Via di San Vito, 13/a, 00185 Roma RM, Italy",
+        "Business Name" : "Trattoria Monti",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8956851",
+          "Longitude" : "12.5019557"
+        }
+      },
+      "Published" : "2019-10-17T14:05:23Z",
+      "Title" : "Trattoria Monti",
+      "Updated" : "2019-10-17T14:05:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.4727955, 41.8959715 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7655334258436031048",
+      "Location" : {
+        "Address" : "Via Garibaldi, 27/G, 00153 Roma RM, Italy",
+        "Business Name" : "IL BARETTO COCKTAIL BAR",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8959715",
+          "Longitude" : "12.4727955"
+        }
+      },
+      "Published" : "2019-10-15T20:54:45Z",
+      "Title" : "Il Baretto",
+      "Updated" : "2019-10-15T20:54:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 9.825423, 44.057362 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=44.05736244419704,9.825422801077366",
+      "Location" : {
+        "Latitude" : "44.057362",
+        "Longitude" : "9.825423"
+      },
+      "Published" : "2019-08-24T23:36:44Z",
+      "Title" : "44.05736244419704,9.825422801077366",
+      "Updated" : "2019-08-24T23:36:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.095676, 42.403345 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.403344911271056,11.095676086843014",
+      "Location" : {
+        "Latitude" : "42.403345",
+        "Longitude" : "11.095676"
+      },
+      "Published" : "2019-08-21T20:06:45Z",
+      "Title" : "42.403344911271056,11.095676086843014",
+      "Updated" : "2019-08-21T20:06:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.0604928, 52.2910173 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9976872195558673354",
+      "Location" : {
+        "Address" : "Am Kurpark 1, 15526 Bad Saarow, Germany",
+        "Business Name" : "SaarowTherme",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.2910173",
+          "Longitude" : "14.0604928"
+        }
+      },
+      "Published" : "2019-08-03T11:56:36Z",
+      "Title" : "SaarowTherme",
+      "Updated" : "2019-08-03T11:56:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.315364, 52.414908 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Celsiusstra%C3%9Fe+19,+12207+Berlin&ftid=0x47a85b1bd32cdbc1:0x337c32b8e25e048a",
+      "Location" : {
+        "Latitude" : "52.414908",
+        "Longitude" : "13.315364"
+      },
+      "Published" : "2019-07-30T15:25:07Z",
+      "Title" : "Celsiusstraße 19, 12207 Berlin",
+      "Updated" : "2019-07-30T15:25:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.4538945, 46.1312785 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3414135707544350204",
+      "Location" : {
+        "Address" : "Val Miller, m. 2166, 25048 Sonico BS, Italy",
+        "Business Name" : "Rifugio Serafino Gnutti",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "46.1312785",
+          "Longitude" : "10.4538945"
+        }
+      },
+      "Published" : "2019-07-24T11:33:13Z",
+      "Title" : "Rifugio Serafino Gnutti",
+      "Updated" : "2019-07-24T11:33:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3441260, 52.4357560 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13794115317827580456",
+      "Location" : {
+        "Address" : "Sibyllenstraße 2, 12247 Berlin, Germany",
+        "Business Name" : "Schuhmacherei Olaf Scherler",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4357560",
+          "Longitude" : "13.3441260"
+        }
+      },
+      "Published" : "2019-07-18T19:03:52Z",
+      "Title" : "Schuhmacherei Olaf Scherler",
+      "Updated" : "2019-07-18T19:03:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.3793439, 50.8453471 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15510051456183789540",
+      "Location" : {
+        "Address" : "Rue du Taciturne 39, 1000 Bruxelles, Belgium",
+        "Business Name" : "La Regina, Restaurant",
+        "Country Code" : "BE",
+        "Geo Coordinates" : {
+          "Latitude" : "50.8453471",
+          "Longitude" : "4.3793439"
+        }
+      },
+      "Published" : "2019-07-16T07:57:13Z",
+      "Title" : "La Regina, Restaurant",
+      "Updated" : "2019-07-16T07:57:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.0929729, 37.5136496 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14943201429340931895",
+      "Location" : {
+        "Address" : "Piazza Giovanni Verga, 39, 95129 Catania CT, Italy",
+        "Business Name" : "Mercure Catania Excelsior",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5136496",
+          "Longitude" : "15.0929729"
+        }
+      },
+      "Published" : "2019-07-11T15:27:13Z",
+      "Title" : "Hotel Mercure Catania Excelsior",
+      "Updated" : "2019-07-11T15:27:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.985475, 52.930183 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Parsteiner+See,+16230+Chorin&ftid=0x47a9ea277b177953:0xa817985a670ef4d2",
+      "Location" : {
+        "Latitude" : "52.930183",
+        "Longitude" : "13.985475"
+      },
+      "Published" : "2019-06-26T13:32:48Z",
+      "Title" : "Parsteiner See, 16230 Chorin",
+      "Updated" : "2019-06-26T13:32:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.474219, 52.507456 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Wiesenweg+1-4,+10365+Berlin&ftid=0x47a84ef1880febb1:0xd81aaf9d09437eed",
+      "Location" : {
+        "Latitude" : "52.507456",
+        "Longitude" : "13.474219"
+      },
+      "Published" : "2019-06-25T13:08:38Z",
+      "Title" : "Wiesenweg 1-4, 10365 Berlin",
+      "Updated" : "2019-06-25T13:08:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.104058, 42.442560 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.44255963851327,11.104057990014553",
+      "Location" : {
+        "Latitude" : "42.442560",
+        "Longitude" : "11.104058"
+      },
+      "Published" : "2019-06-23T13:21:52Z",
+      "Title" : "42.44255963851327,11.104057990014553",
+      "Updated" : "2019-06-23T13:21:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.102630, 42.439012 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.43901180496446,11.102630384266376",
+      "Location" : {
+        "Latitude" : "42.439012",
+        "Longitude" : "11.102630"
+      },
+      "Published" : "2019-06-23T10:35:29Z",
+      "Title" : "42.43901180496446,11.102630384266376",
+      "Updated" : "2019-06-23T10:35:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 9.633858, 46.040134 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=46.0401337559894,9.633858427405357",
+      "Location" : {
+        "Latitude" : "46.040134",
+        "Longitude" : "9.633858"
+      },
+      "Published" : "2019-05-27T19:02:43Z",
+      "Title" : "46.0401337559894,9.633858427405357",
+      "Updated" : "2019-05-27T19:02:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 9.653703, 45.692258 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+Francesco+Coghetti,+24128+Bergamo+BG,+Italy&ftid=0x47815173c37520b1:0xb74eb3566262b333",
+      "Location" : {
+        "Latitude" : "45.692258",
+        "Longitude" : "9.653703"
+      },
+      "Published" : "2019-05-25T10:17:39Z",
+      "Title" : "Via Francesco Coghetti, 24128 Bergamo BG, Italy",
+      "Updated" : "2019-05-25T10:17:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.245080, 40.852777 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+Salvator+Rosa,+280-296,+80135+Napoli+NA,+Italy&ftid=0x133b085e0928436d:0x50c80e1f9446d5a9",
+      "Location" : {
+        "Latitude" : "40.852777",
+        "Longitude" : "14.245080"
+      },
+      "Published" : "2019-05-18T12:54:05Z",
+      "Title" : "Via Salvator Rosa, 280-296, 80135 Napoli NA, Italy",
+      "Updated" : "2019-05-18T12:54:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2440668, 40.8365941 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16013585821284104989",
+      "Location" : {
+        "Address" : "Via Giovanni Nicotera, 13, 80132 Napoli NA, Italy",
+        "Business Name" : "Osteria Della Mattonella",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8365941",
+          "Longitude" : "14.2440668"
+        }
+      },
+      "Published" : "2019-05-18T12:21:19Z",
+      "Title" : "Osteria Della Mattonella",
+      "Updated" : "2019-05-18T12:21:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.258670, 40.849614 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+San+Biagio+Dei+Librai,+39,+80138+Napoli+NA,+Italy&ftid=0x133b0841a1a65e51:0x1f2d2d7d0b914b10",
+      "Location" : {
+        "Latitude" : "40.849614",
+        "Longitude" : "14.258670"
+      },
+      "Published" : "2019-05-17T17:15:59Z",
+      "Title" : "Via San Biagio Dei Librai, 39, 80138 Napoli NA, Italy",
+      "Updated" : "2019-05-17T17:15:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.258192, 40.849381 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+San+Biagio+Dei+Librai,+80138+Napoli+NA,+Italy&ftid=0x133b08417596b8f7:0xb6318b1b95946156",
+      "Location" : {
+        "Latitude" : "40.849381",
+        "Longitude" : "14.258192"
+      },
+      "Published" : "2019-05-17T17:14:50Z",
+      "Title" : "Via San Biagio Dei Librai, 80138 Napoli NA, Italy",
+      "Updated" : "2019-05-17T17:14:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4567086, 40.6198228 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16962636524466913942",
+      "Location" : {
+        "Address" : "SS163, 80069 Vico Equense NA, Italy",
+        "Business Name" : "Spiaggia di Tordigliano",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.6198228",
+          "Longitude" : "14.4567086"
+        }
+      },
+      "Published" : "2019-05-17T07:41:49Z",
+      "Title" : "Spiaggia di Tordigliano",
+      "Updated" : "2019-05-17T07:41:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.3275770, 40.5858320 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16697298089768007056",
+      "Location" : {
+        "Address" : "Via Caselle, 11, 80061 Massa Lubrense NA, Italy",
+        "Business Name" : "Mitigliano Beach",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.5858320",
+          "Longitude" : "14.3275770"
+        }
+      },
+      "Published" : "2019-05-16T16:45:33Z",
+      "Title" : "Mitigliano Beach",
+      "Updated" : "2019-05-16T16:45:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2521269, 40.8574388 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1451387620367571562",
+      "Location" : {
+        "Address" : "Via Arena della Sanità, 7 Bis, 80137 Napoli NA, Italy",
+        "Business Name" : "Pizzeria Concettina ai Tre Santi",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8574388",
+          "Longitude" : "14.2521269"
+        }
+      },
+      "Published" : "2019-05-15T16:38:33Z",
+      "Title" : "Pizzeria Concettina ai Tre Santi",
+      "Updated" : "2019-05-15T16:38:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2417561, 40.8316652 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10019688513833361231",
+      "Location" : {
+        "Address" : "Via Partenope, 1, 80121 Napoli NA, Italy",
+        "Business Name" : "Gino Sorbillo Lievito Madre al Mare",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8316652",
+          "Longitude" : "14.2417561"
+        }
+      },
+      "Published" : "2019-05-15T16:36:30Z",
+      "Title" : "Gino Sorbillo Lievito Madre al Mare",
+      "Updated" : "2019-05-15T16:36:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2463808, 40.8559232 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2197116873067032358",
+      "Location" : {
+        "Address" : "Via Materdei, 27/28, 80136 Napoli NA, Italy",
+        "Business Name" : "Starita",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8559232",
+          "Longitude" : "14.2463808"
+        }
+      },
+      "Published" : "2019-05-15T16:35:28Z",
+      "Title" : "Starita",
+      "Updated" : "2019-05-15T16:35:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2468049, 40.8367648 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9966487454977366833",
+      "Location" : {
+        "Address" : "Salita San Anna di Palazzo, 1/2, 80132 Napoli NA, Italy",
+        "Business Name" : "Pizzeria Brandi",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8367648",
+          "Longitude" : "14.2468049"
+        }
+      },
+      "Published" : "2019-05-15T16:34:53Z",
+      "Title" : "Pizzeria Brandi",
+      "Updated" : "2019-05-15T16:34:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2579677, 40.8512512 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17070588764528483247",
+      "Location" : {
+        "Address" : "Via dei Tribunali, 94, 80138 Napoli NA, Italy",
+        "Business Name" : "Pizzeria Di Matteo",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8512512",
+          "Longitude" : "14.2579677"
+        }
+      },
+      "Published" : "2019-05-15T16:34:01Z",
+      "Title" : "Pizzeria Di Matteo",
+      "Updated" : "2019-05-15T16:34:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2202575, 40.8283718 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2519669216971214380",
+      "Location" : {
+        "Address" : "Piazza Sannazaro, 201/c, 80121 Napoli NA, Italy",
+        "Business Name" : "50 Kalò",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8283718",
+          "Longitude" : "14.2202575"
+        }
+      },
+      "Published" : "2019-05-15T16:33:30Z",
+      "Title" : "50 Kalò",
+      "Updated" : "2019-05-15T16:33:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.0764900, 40.8275300 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13681448782271695165",
+      "Location" : {
+        "Address" : "Via Stufe di Nerone, 45, 80070 Bacoli NA, Italy",
+        "Business Name" : "Stufe di Nerone",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8275300",
+          "Longitude" : "14.0764900"
+        }
+      },
+      "Published" : "2019-05-15T13:51:06Z",
+      "Title" : "Stufe di Nerone",
+      "Updated" : "2019-05-15T13:51:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.246807, 40.835092 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+Nuova+Pizzofalcone,+35,+80132+Napoli+NA,+Italy&ftid=0x133b08536cbae591:0x6bae90c6356536e9",
+      "Location" : {
+        "Latitude" : "40.835092",
+        "Longitude" : "14.246807"
+      },
+      "Published" : "2019-05-09T20:48:00Z",
+      "Title" : "Via Nuova Pizzofalcone, 35, 80132 Napoli NA, Italy",
+      "Updated" : "2019-05-09T20:48:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.4024587, 49.6855237 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7055381407571345488",
+      "Location" : {
+        "Address" : "Hauptstraße 69, 91282 Betzenstein, Germany",
+        "Business Name" : "Campingplatz Betzenstein",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6855237",
+          "Longitude" : "11.4024587"
+        }
+      },
+      "Published" : "2019-04-03T12:59:31Z",
+      "Title" : "Campingplatz Betzenstein",
+      "Updated" : "2019-04-03T12:59:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.256242, 52.486285 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=52.48628549799495,13.25624205172062",
+      "Location" : {
+        "Latitude" : "52.486285",
+        "Longitude" : "13.256242"
+      },
+      "Published" : "2019-03-30T00:04:08Z",
+      "Title" : "52.48628549799495,13.25624205172062",
+      "Updated" : "2019-03-30T00:04:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.5896964, 46.6090540 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2909659341678189909",
+      "Location" : {
+        "Address" : "Italy",
+        "Business Name" : "Gspoi-Hof",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "46.6090540",
+          "Longitude" : "11.5896964"
+        }
+      },
+      "Published" : "2019-03-16T11:15:08Z",
+      "Title" : "Gspoi-Hof",
+      "Updated" : "2019-03-16T11:15:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2654151, 40.8544064 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2844764756383471501",
+      "Location" : {
+        "Address" : "Piazza San Francesco, Piazza San Anna a Capuana, a, 80139 Napoli NA, Italy",
+        "Business Name" : "Porta Capuana",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8544064",
+          "Longitude" : "14.2654151"
+        }
+      },
+      "Published" : "2019-02-09T21:25:40Z",
+      "Title" : "Porta Capuana",
+      "Updated" : "2019-02-09T21:25:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2633002, 40.8497563 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6535452230733379138",
+      "Location" : {
+        "Address" : "Via Cesare Sersale, 1, 80139 Napoli NA, Italy",
+        "Business Name" : "L'Antica Pizzeria da Michele",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8497563",
+          "Longitude" : "14.2633002"
+        }
+      },
+      "Published" : "2019-02-09T21:24:33Z",
+      "Title" : "L'Antica Pizzeria Da Michele",
+      "Updated" : "2019-02-09T21:24:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.470749, 52.507105 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Neue+Bahnhofstra%C3%9Fe+23,+10245+Berlin&ftid=0x47a84ef14629a7d9:0x4291185ff3751179",
+      "Location" : {
+        "Latitude" : "52.507105",
+        "Longitude" : "13.470749"
+      },
+      "Published" : "2019-02-05T16:51:39Z",
+      "Title" : "Neue Bahnhofstraße 23, 10245 Berlin",
+      "Updated" : "2019-02-05T16:51:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.376372, 52.542849 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Neue+Hochstra%C3%9Fe+25,+13347+Berlin&ftid=0x47a8518913d4be33:0x5067293d4efbe425",
+      "Location" : {
+        "Latitude" : "52.542849",
+        "Longitude" : "13.376372"
+      },
+      "Published" : "2019-02-05T16:51:03Z",
+      "Title" : "Neue Hochstraße 25, 13347 Berlin",
+      "Updated" : "2019-02-05T16:51:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 7.538177, 44.386972 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=44.386972,7.538177",
+      "Location" : {
+        "Latitude" : "44.386972",
+        "Longitude" : "7.538177"
+      },
+      "Published" : "2018-07-08T04:00:49Z",
+      "Title" : "44.386972,7.538177",
+      "Updated" : "2019-01-26T07:21:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.7543565, 50.1869974 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13569737454243656729",
+      "Location" : {
+        "Address" : "Zámecká 67, 357 33 Loket, Czechia",
+        "Business Name" : "Loket Castle",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.1869974",
+          "Longitude" : "12.7543565"
+        }
+      },
+      "Published" : "2019-01-23T11:13:03Z",
+      "Title" : "Loket Castle",
+      "Updated" : "2019-01-23T11:13:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4180766, 52.4937320 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4879598907839537550",
+      "Location" : {
+        "Address" : "Graefestraße 11, 10967 Berlin, Germany",
+        "Business Name" : "Cocolo",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4937320",
+          "Longitude" : "13.4180766"
+        }
+      },
+      "Published" : "2019-01-08T21:55:03Z",
+      "Title" : "Cocolo",
+      "Updated" : "2019-01-08T21:55:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.513198, 50.791973 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Szrenica,+58-580+Szklarska+Por%C4%99ba,+Poland&ftid=0x470ec4e70642326b:0x929079297a25a316",
+      "Location" : {
+        "Latitude" : "50.791973",
+        "Longitude" : "15.513198"
+      },
+      "Published" : "2019-01-03T19:10:11Z",
+      "Title" : "Szrenica, 58-580 Szklarska Poręba, Poland",
+      "Updated" : "2019-01-03T19:10:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.538016, 41.893352 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+Biordo+Michelotti,+00176+Roma+RM,+Italy&ftid=0x132f622f728e0179:0x9fa98debf82250c",
+      "Location" : {
+        "Latitude" : "41.893352",
+        "Longitude" : "12.538016"
+      },
+      "Published" : "2018-12-27T16:00:51Z",
+      "Title" : "Via Biordo Michelotti, 00176 Roma RM, Italy",
+      "Updated" : "2018-12-27T16:00:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.017000, 50.433000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Hazmburk,+411+16+Klap%C3%BD&ftid=0x470a2b6bad4c3b81:0xbff539cc3b73098f",
+      "Location" : {
+        "Latitude" : "50.433000",
+        "Longitude" : "14.017000"
+      },
+      "Published" : "2018-12-22T13:55:36Z",
+      "Title" : "Hazmburk, 411 16 Klapý",
+      "Updated" : "2018-12-22T13:55:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.407064, 52.552482 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Paul-Robeson-Stra%C3%9Fe+35,+10439+Berlin&ftid=0x47a852054ac04415:0x72c7b752323e2007",
+      "Location" : {
+        "Latitude" : "52.552482",
+        "Longitude" : "13.407064"
+      },
+      "Published" : "2018-12-14T15:20:10Z",
+      "Title" : "Paul-Robeson-Straße 35, 10439 Berlin",
+      "Updated" : "2018-12-14T15:20:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.4881099, 41.8938431 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4144441302843589577",
+      "Location" : {
+        "Address" : "Via della Madonna dei Monti, 108, 00184 Roma RM, Italy",
+        "Business Name" : "Humus Bistrot",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8938431",
+          "Longitude" : "12.4881099"
+        }
+      },
+      "Published" : "2018-12-14T12:16:14Z",
+      "Title" : "Humus Bistrot",
+      "Updated" : "2018-12-14T12:16:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5472269, 41.8761292 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1272103728234587131",
+      "Location" : {
+        "Address" : "Viale dell'Acquedotto Alessandrino, 172/174, 00177 Roma RM, Italy",
+        "Business Name" : "Osteria Bonelli",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8761292",
+          "Longitude" : "12.5472269"
+        }
+      },
+      "Published" : "2018-12-14T01:19:51Z",
+      "Title" : "Osteria Bonelli",
+      "Updated" : "2018-12-14T01:19:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.391698, 39.448821 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Capo+Pecora,+Italy&ftid=0x12e79beda836f3f5:0x5b2aff3712c4b30f",
+      "Location" : {
+        "Latitude" : "39.448821",
+        "Longitude" : "8.391698"
+      },
+      "Published" : "2018-12-03T16:15:52Z",
+      "Title" : "Capo Pecora, Italy",
+      "Updated" : "2018-12-03T16:15:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4162428, 52.4929023 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3386355821748048834",
+      "Location" : {
+        "Address" : "Dieffenbachstraße 59, 10967 Berlin, Germany",
+        "Business Name" : "Weinblatt",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4929023",
+          "Longitude" : "13.4162428"
+        }
+      },
+      "Published" : "2018-11-25T14:30:02Z",
+      "Title" : "Weinblatt",
+      "Updated" : "2018-11-25T14:30:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4158876, 52.4912383 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9141741676585351654",
+      "Location" : {
+        "Address" : "Urbanstraße 126, 10967 Berlin, Germany",
+        "Business Name" : "MINI - Wine, Food and Cult movies",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4912383",
+          "Longitude" : "13.4158876"
+        }
+      },
+      "Published" : "2018-11-20T22:50:47Z",
+      "Title" : "MINI - Wine, Food and Cult movies",
+      "Updated" : "2018-11-20T22:50:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3912054, 52.5219547 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15351612650866522192",
+      "Location" : {
+        "Address" : "Am Weidendamm 3, 10117 Berlin, Germany",
+        "Business Name" : "hubSchrauber - Fahrradselbsthilfewerkstatt",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5219547",
+          "Longitude" : "13.3912054"
+        }
+      },
+      "Published" : "2018-11-14T13:47:16Z",
+      "Title" : "hubSchrauber - Fahrradselbsthilfewerkstatt",
+      "Updated" : "2018-11-14T13:47:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4267796, 52.4956329 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15897923583756489511",
+      "Location" : {
+        "Address" : "Lausitzer Straße 22, 10999 Berlin, Germany",
+        "Business Name" : "Bicycle self-help workshop in Regenbogenfabrik",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4956329",
+          "Longitude" : "13.4267796"
+        }
+      },
+      "Published" : "2018-11-14T13:44:00Z",
+      "Title" : "Bicycle self-help workshop in Regenbogenfabrik",
+      "Updated" : "2018-11-14T13:44:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.232322, 48.840875 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=140+Route+de+la+Reine,+92100+Boulogne-Billancourt,+France&ftid=0x47e67adf7544edf3:0x238ee17d64259ba5",
+      "Location" : {
+        "Latitude" : "48.840875",
+        "Longitude" : "2.232322"
+      },
+      "Published" : "2018-10-29T09:01:14Z",
+      "Title" : "140 Route de la Reine, 92100 Boulogne-Billancourt, France",
+      "Updated" : "2018-10-29T09:01:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.2021600, 49.6272894 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=803983949651476859",
+      "Location" : {
+        "Address" : "49°37'38.2\"N 14°12'07.8\"E, Czechia",
+        "Business Name" : "The prospect Solenice",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6272894",
+          "Longitude" : "14.2021600"
+        }
+      },
+      "Published" : "2018-10-26T11:32:55Z",
+      "Title" : "The prospect Solenice",
+      "Updated" : "2018-10-26T11:32:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.6310953, 42.4241163 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3678843198415241954",
+      "Location" : {
+        "Address" : "01014 Montalto di Castro, Province of Viterbo, Italy",
+        "Business Name" : "Vulci",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4241163",
+          "Longitude" : "11.6310953"
+        }
+      },
+      "Published" : "2018-10-23T16:01:22Z",
+      "Title" : "Vulci",
+      "Updated" : "2018-10-23T16:01:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.4532925, 44.2799384 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11183952815324330235",
+      "Location" : {
+        "Address" : "23244, Starigrad, Croatia",
+        "Business Name" : "beach Večka Kula",
+        "Country Code" : "HR",
+        "Geo Coordinates" : {
+          "Latitude" : "44.2799384",
+          "Longitude" : "15.4532925"
+        }
+      },
+      "Published" : "2018-10-19T16:55:28Z",
+      "Title" : "beach Večka Kula",
+      "Updated" : "2018-10-19T16:55:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.282620, 44.064637 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rado%C5%A1tina+ul.+15,+23205,+Bibinje,+Croatia&ftid=0x4761e4c6fb93d671:0x218dead53b68c9b6",
+      "Location" : {
+        "Latitude" : "44.064637",
+        "Longitude" : "15.282620"
+      },
+      "Published" : "2018-10-18T17:40:33Z",
+      "Title" : "Radoština ul. 15, 23205, Bibinje, Croatia",
+      "Updated" : "2018-10-18T17:40:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5385028, 41.8967844 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7797534040184989630",
+      "Location" : {
+        "Address" : "Via Giuseppe Arimondi, 36/40, 00159 Roma RM, Italy",
+        "Business Name" : "Vapoforno Frillocchi",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8967844",
+          "Longitude" : "12.5385028"
+        }
+      },
+      "Published" : "2018-10-09T10:14:57Z",
+      "Title" : "Vapoforno Frillocchi",
+      "Updated" : "2018-10-09T10:14:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -112.697945, 36.255209 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=36.255209,-112.697945",
+      "Location" : {
+        "Latitude" : "36.255209",
+        "Longitude" : "-112.697945"
+      },
+      "Published" : "2018-04-27T16:24:51Z",
+      "Title" : "36.255209,-112.697945",
+      "Updated" : "2018-09-26T06:41:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.329595, 46.256931 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=46.256931,8.329595",
+      "Location" : {
+        "Latitude" : "46.256931",
+        "Longitude" : "8.329595"
+      },
+      "Published" : "2016-08-16T17:02:42Z",
+      "Title" : "46.256931,8.329595",
+      "Updated" : "2018-09-14T06:36:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4244750, 52.5345750 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12270067718439444284",
+      "Location" : {
+        "Address" : "Marienburger Straße 9, 10405 Berlin, Germany",
+        "Business Name" : "La Criolla Empanadas",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5345750",
+          "Longitude" : "13.4244750"
+        }
+      },
+      "Published" : "2018-08-24T20:58:45Z",
+      "Title" : "La Criolla Empanadas",
+      "Updated" : "2018-08-24T20:58:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.253449, 49.639024 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=262+63+Kam%C3%BDk+nad+Vltavou,+Czechia&ftid=0x470b71edba8bb86d:0x400af0f66153090",
+      "Location" : {
+        "Latitude" : "49.639024",
+        "Longitude" : "14.253449"
+      },
+      "Published" : "2018-07-27T09:33:38Z",
+      "Title" : "Kamýk nad Vltavou, 262 63, Czechia",
+      "Updated" : "2018-07-27T09:33:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.126112, 52.240134 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Blankenseer+Dorfstra%C3%9Fe,+14959+Trebbin,+Germany&ftid=0x47a86144c1f47bcd:0x2b59765df99443d4",
+      "Location" : {
+        "Latitude" : "52.240134",
+        "Longitude" : "13.126112"
+      },
+      "Published" : "2018-07-15T10:47:05Z",
+      "Title" : "Blankenseer Dorfstraße, 14959 Trebbin, Germany",
+      "Updated" : "2018-07-15T10:47:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 7.543581, 44.379198 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=44.379198247838204,7.543581426143646",
+      "Location" : {
+        "Latitude" : "44.379198",
+        "Longitude" : "7.543581"
+      },
+      "Published" : "2018-07-08T04:01:03Z",
+      "Title" : "44.379198247838204,7.543581426143646",
+      "Updated" : "2018-07-08T04:01:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.154577, 42.372279 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.372279160234754,11.154576726257801",
+      "Location" : {
+        "Latitude" : "42.372279",
+        "Longitude" : "11.154577"
+      },
+      "Published" : "2018-06-30T11:19:57Z",
+      "Title" : "42.372279160234754,11.154576726257801",
+      "Updated" : "2018-06-30T11:19:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9888889, 40.7541667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4128865992736159296",
+      "Location" : {
+        "Address" : "200 West 39th Street, New York, NY 10018, United States",
+        "Business Name" : "Café Grumpy",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7541667",
+          "Longitude" : "-73.9888889"
+        }
+      },
+      "Published" : "2018-06-12T13:47:44Z",
+      "Title" : "Café Grumpy",
+      "Updated" : "2018-06-12T13:47:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.944673, 40.791575 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=E+106th+St,+New+York,+NY+10029,+USA&ftid=0x89c2f6025490f93f:0xf65c31a47b5c19d4",
+      "Location" : {
+        "Latitude" : "40.791575",
+        "Longitude" : "-73.944673"
+      },
+      "Published" : "2018-06-11T16:42:08Z",
+      "Title" : "E 106th St, New York, NY 10029, USA",
+      "Updated" : "2018-06-11T16:42:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.071759, 38.949868 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=4601+Reno+Rd+NW,+Washington,+DC+20008,+USA&ftid=0x89b7c9c712491abb:0xeb9ba2b35ef7add4",
+      "Location" : {
+        "Latitude" : "38.949868",
+        "Longitude" : "-77.071759"
+      },
+      "Published" : "2018-06-09T10:20:51Z",
+      "Title" : "4601 Reno Rd NW, Washington, DC 20008, USA",
+      "Updated" : "2018-06-09T10:20:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.990223, 40.741137 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3614167816841382015",
+      "Location" : {
+        "Latitude" : "40.741137",
+        "Longitude" : "-73.990223"
+      },
+      "Published" : "2018-05-26T12:44:32Z",
+      "Title" : "Eisenberg's Sandwich Shop",
+      "Updated" : "2018-05-26T12:44:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9874290, 40.7222330 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3545819340560108778",
+      "Location" : {
+        "Address" : "205 East Houston Street, New York, NY 10002, United States",
+        "Business Name" : "Katz's Delicatessen",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7222330",
+          "Longitude" : "-73.9874290"
+        }
+      },
+      "Published" : "2018-05-26T12:44:05Z",
+      "Title" : "Katz's Delicatessen",
+      "Updated" : "2018-05-26T12:44:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.995224, 40.750144 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7534060191200152409",
+      "Location" : {
+        "Latitude" : "40.750144",
+        "Longitude" : "-73.995224"
+      },
+      "Published" : "2018-05-26T03:08:47Z",
+      "Title" : "NY Pizza Suprema",
+      "Updated" : "2018-05-26T03:08:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9588869, 40.7168895 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10095146625745125640",
+      "Location" : {
+        "Address" : "216 Bedford Avenue, Brooklyn, NY 11249, United States",
+        "Business Name" : "Joe's Pizza",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7168895",
+          "Longitude" : "-73.9588869"
+        }
+      },
+      "Published" : "2018-05-26T03:06:06Z",
+      "Title" : "Joe's Pizza",
+      "Updated" : "2018-05-26T03:06:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -112.689079, 36.236926 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Supai,+AZ+86435&ftid=0x80ccaf411028f671:0xd2b3b431e4b61208",
+      "Location" : {
+        "Latitude" : "36.236926",
+        "Longitude" : "-112.689079"
+      },
+      "Published" : "2018-04-27T12:37:17Z",
+      "Title" : "Supai, Arizona 86435",
+      "Updated" : "2018-04-27T12:37:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.378811, 42.183391 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.18339104545374,12.378811351954937",
+      "Location" : {
+        "Latitude" : "42.183391",
+        "Longitude" : "12.378811"
+      },
+      "Published" : "2018-04-23T21:51:35Z",
+      "Title" : "42.18339104545374,12.378811351954937",
+      "Updated" : "2018-04-23T21:51:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.959815, 40.691297 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=262+Taaffe+Pl,+Brooklyn,+NY+11205,+USA&ftid=0x89c25bbfde0498f5:0xa7ac9b71fcb475b",
+      "Location" : {
+        "Latitude" : "40.691297",
+        "Longitude" : "-73.959815"
+      },
+      "Published" : "2018-04-20T14:21:01Z",
+      "Title" : "262 Taaffe Pl, Brooklyn, NY 11205, USA",
+      "Updated" : "2018-04-20T14:21:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -112.1669029, 37.6352027 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10296783838691097605",
+      "Location" : {
+        "Address" : "Bryce, UT 84764, United States",
+        "Business Name" : "North Campground - Bryce",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.6352027",
+          "Longitude" : "-112.1669029"
+        }
+      },
+      "Published" : "2018-04-19T13:36:12Z",
+      "Title" : "North Campground - Bryce",
+      "Updated" : "2018-04-19T13:36:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -112.9836053, 37.2041104 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16714083329334966350",
+      "Location" : {
+        "Address" : "Dalton Washington Road, Virgin, UT 84779, United States",
+        "Business Name" : "Zion National Park - South Campground",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.2041104",
+          "Longitude" : "-112.9836053"
+        }
+      },
+      "Published" : "2018-04-19T13:09:47Z",
+      "Title" : "Zion National Park - South Campground",
+      "Updated" : "2018-04-19T13:13:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -111.656667, 40.551667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Twin+Peaks,+Utah+84604,+USA&ftid=0x875270adce674fef:0x55fb96a8aef4273e",
+      "Location" : {
+        "Latitude" : "40.551667",
+        "Longitude" : "-111.656667"
+      },
+      "Published" : "2018-04-19T12:19:04Z",
+      "Title" : "Twin Peaks, Utah 84604, USA",
+      "Updated" : "2018-04-19T12:19:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -111.2615042, 38.3669703 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16013652742485573383",
+      "Location" : {
+        "Address" : "Utah, United States",
+        "Business Name" : "Capitol Reef National Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.3669703",
+          "Longitude" : "-111.2615042"
+        }
+      },
+      "Published" : "2018-04-17T15:31:50Z",
+      "Title" : "Capitol Reef National Park",
+      "Updated" : "2018-04-17T15:31:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -109.9251270, 37.1749106 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17211682398573960680",
+      "Location" : {
+        "Address" : "Utah, United States",
+        "Business Name" : "Goosenecks Campground",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.1749106",
+          "Longitude" : "-109.9251270"
+        }
+      },
+      "Published" : "2018-04-17T15:22:25Z",
+      "Title" : "Goosenecks Campground",
+      "Updated" : "2018-04-17T15:22:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -112.1870895, 37.5930377 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7775984807379234054",
+      "Location" : {
+        "Address" : "Utah, United States",
+        "Business Name" : "Bryce Canyon National Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5930377",
+          "Longitude" : "-112.1870895"
+        }
+      },
+      "Published" : "2018-04-17T14:19:35Z",
+      "Title" : "Bryce Canyon National Park",
+      "Updated" : "2018-04-17T14:19:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 7.725528, 45.832227 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=11020+Champoluc,+Aosta+Valley,+Italy&ftid=0x4788b7d5406d3297:0x8cd4a9c4cefdd793",
+      "Location" : {
+        "Latitude" : "45.832227",
+        "Longitude" : "7.725528"
+      },
+      "Published" : "2018-04-12T10:16:37Z",
+      "Title" : "Champoluc, 11020 Aosta Valley, Italy",
+      "Updated" : "2018-04-12T10:16:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.183080, 42.379540 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.379539942825254,11.183079555630684",
+      "Location" : {
+        "Latitude" : "42.379540",
+        "Longitude" : "11.183080"
+      },
+      "Published" : "2018-03-31T21:48:37Z",
+      "Title" : "42.379539942825254,11.183079555630684",
+      "Updated" : "2018-03-31T21:48:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.185934, 42.379879 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Unnamed+Road,+58019+Monte+Argentario+GR,+Italy&ftid=0x13285c95d5897f97:0xb9e4307ed3e45422",
+      "Location" : {
+        "Latitude" : "42.379879",
+        "Longitude" : "11.185934"
+      },
+      "Published" : "2018-03-31T21:47:26Z",
+      "Title" : "Unnamed Road, 58019 Monte Argentario GR, Italy",
+      "Updated" : "2018-03-31T21:47:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.683760, 37.112291 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=S+Eureka+Rd,+California,+USA&ftid=0x80bf1a534c539561:0x1b2c973a167d82b2",
+      "Location" : {
+        "Latitude" : "37.112291",
+        "Longitude" : "-117.683760"
+      },
+      "Published" : "2018-03-31T21:39:30Z",
+      "Title" : "S Eureka Rd, California, USA",
+      "Updated" : "2018-03-31T21:39:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.675357, 37.095766 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Eureka+Dunes,+California,+USA&ftid=0x80bf1a427b7b4a5b:0x46bfe22d37ea838d",
+      "Location" : {
+        "Latitude" : "37.095766",
+        "Longitude" : "-117.675357"
+      },
+      "Published" : "2018-03-31T21:36:59Z",
+      "Title" : "Eureka Dunes, California, USA",
+      "Updated" : "2018-03-31T21:36:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.343877, 42.415589 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.41558943172649,11.34387731552124",
+      "Location" : {
+        "Latitude" : "42.415589",
+        "Longitude" : "11.343877"
+      },
+      "Published" : "2018-03-30T12:31:27Z",
+      "Title" : "42.41558943172649,11.34387731552124",
+      "Updated" : "2018-03-30T12:31:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.3378720, 44.2116375 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1584431544775815754",
+      "Location" : {
+        "Address" : "Strada Comunale Orco - Finale, 17024 Orco Feglino SV, Italy",
+        "Business Name" : "Ciappo delle Conche",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "44.2116375",
+          "Longitude" : "8.3378720"
+        }
+      },
+      "Published" : "2018-03-23T12:06:07Z",
+      "Title" : "Ciappo delle Conche",
+      "Updated" : "2018-03-23T12:06:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.3626815, 44.1955122 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12389434320219538074",
+      "Location" : {
+        "Address" : "17024 Finale Ligure, Province of Savona, Italy",
+        "Business Name" : "Rocca di Corno",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "44.1955122",
+          "Longitude" : "8.3626815"
+        }
+      },
+      "Published" : "2018-03-23T12:00:09Z",
+      "Title" : "Rocca di Corno",
+      "Updated" : "2018-03-23T12:00:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -110.683768, 38.608085 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Goblin+Valley+Rd,+Green+River,+UT+84525,+USA&ftid=0x8749a2b4c60051bb:0x3d0ce33fdda3dbb6",
+      "Location" : {
+        "Latitude" : "38.608085",
+        "Longitude" : "-110.683768"
+      },
+      "Published" : "2018-03-14T10:31:11Z",
+      "Title" : "Goblin Valley Rd, Green River, UT 84525, USA",
+      "Updated" : "2018-03-14T10:31:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.2371541, 42.3285847 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6996437948690190637",
+      "Location" : {
+        "Address" : "Piazza Farnese, 1, 01032 Caprarola VT, Italy",
+        "Business Name" : "Villa Farnese",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3285847",
+          "Longitude" : "12.2371541"
+        }
+      },
+      "Published" : "2018-02-16T17:05:33Z",
+      "Title" : "Villa Farnese",
+      "Updated" : "2018-02-16T17:05:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.4724610, 41.9005740 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18006838439976891943",
+      "Location" : {
+        "Address" : "Via Giuseppe Zanardelli, 23, 00186 Roma RM, Italy",
+        "Business Name" : "Antica Dimora Delle Cinque Lune",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.9005740",
+          "Longitude" : "12.4724610"
+        }
+      },
+      "Published" : "2018-02-10T19:50:03Z",
+      "Title" : "Antica Dimora Delle Cinque Lune",
+      "Updated" : "2018-02-10T19:50:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4225103, 50.0884285 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10352545106045900506",
+      "Location" : {
+        "Address" : "Týnská ulička 1064/6, Staré Město, 110 00, Czechia",
+        "Business Name" : "Restaurace Maitrea - vegetariánská restaurace",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0884285",
+          "Longitude" : "14.4225103"
+        }
+      },
+      "Published" : "2017-12-17T13:34:28Z",
+      "Title" : "MAITREA",
+      "Updated" : "2017-12-17T13:34:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.8355702, 52.3501900 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6532425871346505521",
+      "Location" : {
+        "Address" : "Schulstraße 2, 15528 Spreenhagen, Germany",
+        "Business Name" : "Hollys Galerie Cafe",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.3501900",
+          "Longitude" : "13.8355702"
+        }
+      },
+      "Published" : "2017-11-19T11:26:06Z",
+      "Title" : "Hollys Galerie Cafe",
+      "Updated" : "2017-11-19T11:26:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.883544, 45.920444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=45.9204437,10.8835445",
+      "Location" : {
+        "Latitude" : "45.920444",
+        "Longitude" : "10.883544"
+      },
+      "Published" : "2017-11-10T11:29:19Z",
+      "Title" : "45.9204437,10.8835445",
+      "Updated" : "2017-11-10T11:29:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.0872694, 42.6170591 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11013455453374977577",
+      "Location" : {
+        "Address" : "Magliano in Toscana GR, Italy",
+        "Business Name" : "Cala Di Forno",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "42.6170591",
+          "Longitude" : "11.0872694"
+        }
+      },
+      "Published" : "2017-10-29T16:13:50Z",
+      "Title" : "Cala Di Forno",
+      "Updated" : "2017-10-29T16:13:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.118125, 42.565300 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.56529998601145,11.118125505745413",
+      "Location" : {
+        "Latitude" : "42.565300",
+        "Longitude" : "11.118125"
+      },
+      "Published" : "2017-10-29T16:11:49Z",
+      "Title" : "42.56529998601145,11.118125505745413",
+      "Updated" : "2017-10-29T16:11:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.150788, 42.373911 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.37391145433425,11.15078777074814",
+      "Location" : {
+        "Latitude" : "42.373911",
+        "Longitude" : "11.150788"
+      },
+      "Published" : "2017-10-28T12:07:44Z",
+      "Title" : "42.37391145433425,11.15078777074814",
+      "Updated" : "2017-10-28T12:07:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4525000, 52.5133333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5840398358024535552",
+      "Location" : {
+        "Address" : "Warschauer Straße 12, 10243 Berlin, Germany",
+        "Business Name" : "Chipi Chipi Bombón",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5133333",
+          "Longitude" : "13.4525000"
+        }
+      },
+      "Published" : "2017-10-06T18:39:09Z",
+      "Title" : "Chipi Chipi Bombón",
+      "Updated" : "2017-10-06T18:39:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.003374, 53.587687 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Maria-Louisen-Stra%C3%9Fe,+Hamburg,+Germany&ftid=0x47b188d05a5262e3:0xc33aee969ed7d26f",
+      "Location" : {
+        "Latitude" : "53.587687",
+        "Longitude" : "10.003374"
+      },
+      "Published" : "2017-10-06T15:33:10Z",
+      "Title" : "Maria-Louisen-Straße, Hamburg, Germany",
+      "Updated" : "2017-10-06T15:33:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.0030403, 53.4943514 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4650130938345607071",
+      "Location" : {
+        "Address" : "Am Inselpark 20, 21109 Hamburg, Germany",
+        "Business Name" : "Nordwandhalle Betriebsgesellschaft mbH.",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "53.4943514",
+          "Longitude" : "10.0030403"
+        }
+      },
+      "Published" : "2017-10-06T12:26:44Z",
+      "Title" : "Nordwandhalle Betriebsgesellschaft mbH.",
+      "Updated" : "2017-10-06T12:26:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.7364078, 38.1429792 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=884558259091810243",
+      "Location" : {
+        "Address" : "Contrada Isulidda, 91010 San Vito Lo Capo TP, Italy",
+        "Business Name" : "of Isolidda Beach",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "38.1429792",
+          "Longitude" : "12.7364078"
+        }
+      },
+      "Published" : "2017-09-15T10:22:16Z",
+      "Title" : "Spiaggia di Isolidda",
+      "Updated" : "2017-09-15T10:22:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.7187723, 38.1163600 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5364720682996159966",
+      "Location" : {
+        "Address" : "Contrada Macari, 91010 San Vito Lo Capo TP, Italy",
+        "Business Name" : "Spiaggia di Seno dell'Arena (Calazza)",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "38.1163600",
+          "Longitude" : "12.7187723"
+        }
+      },
+      "Published" : "2017-09-15T10:20:25Z",
+      "Title" : "Spiaggia di Seno dell'Arena (Calazza)",
+      "Updated" : "2017-09-15T10:20:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.5051834, 38.0144684 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=671666261293878579",
+      "Location" : {
+        "Address" : "Viale Regina Elena, 91100 Trapani TP, Italy",
+        "Business Name" : "Columbus Yachting Trapani srl",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "38.0144684",
+          "Longitude" : "12.5051834"
+        }
+      },
+      "Published" : "2017-09-13T20:46:51Z",
+      "Title" : "Columbus Yachting Trapani srl",
+      "Updated" : "2017-09-13T20:46:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.881973, 38.025479 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+Giosu%C3%A8+Carducci,+50,+91014+Castellammare+del+Golfo+TP,+Italy&ftid=0x13198158999ec7f7:0x33267c7c3f51ac4",
+      "Location" : {
+        "Latitude" : "38.025479",
+        "Longitude" : "12.881973"
+      },
+      "Published" : "2017-09-08T09:33:27Z",
+      "Title" : "Via Giosuè Carducci, 50, 91014 Castellammare del Golfo TP, Italy",
+      "Updated" : "2017-09-08T09:33:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.784246, 38.110813 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=91010+Tonnarella+dell'Uzzo+Province+of+Trapani,+Italy&ftid=0x131978183f2e3d91:0x1485ff21b541f4ca",
+      "Location" : {
+        "Latitude" : "38.110813",
+        "Longitude" : "12.784246"
+      },
+      "Published" : "2017-09-01T11:22:40Z",
+      "Title" : "Tonnarella dell'Uzzo, 91010 Province of Trapani, Italy",
+      "Updated" : "2017-09-01T11:22:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.4706670, 37.8901815 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7038762010954534362",
+      "Location" : {
+        "Address" : "Contrada Birgi Vecchio, 390/F, 91025 Marsala TP, Italy",
+        "Business Name" : "Windsurf Maniacs School Stagnone",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "37.8901815",
+          "Longitude" : "12.4706670"
+        }
+      },
+      "Published" : "2017-08-25T11:08:50Z",
+      "Title" : "Windsurf Maniacs School",
+      "Updated" : "2017-08-25T11:08:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.223386, 43.390135 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=53035+Monteriggioni,+Province+of+Siena,+Italy&ftid=0x132a2e2747c08bd1:0x844b3df20f3b64cd",
+      "Location" : {
+        "Latitude" : "43.390135",
+        "Longitude" : "11.223386"
+      },
+      "Published" : "2017-08-14T12:49:01Z",
+      "Title" : "Monteriggioni, 53035 Province of Siena, Italy",
+      "Updated" : "2017-08-14T12:49:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.482875, 40.079327 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=73028+Porto+Badisco+Province+of+Lecce,+Italy&ftid=0x13446a5d96f0aec3:0x1bf87e8cc4841f3",
+      "Location" : {
+        "Latitude" : "40.079327",
+        "Longitude" : "18.482875"
+      },
+      "Published" : "2017-08-01T10:55:21Z",
+      "Title" : "Porto Badisco, Province of Lecce, Italy",
+      "Updated" : "2017-08-01T10:55:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.105052, 42.395981 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Unnamed+Road,+58019+Monte+Argentario+GR,+Italy&ftid=0x1328438f5fe8d181:0xa26cd3987bfd1224",
+      "Location" : {
+        "Latitude" : "42.395981",
+        "Longitude" : "11.105052"
+      },
+      "Published" : "2017-07-20T11:00:05Z",
+      "Title" : "Unnamed Road, 58019 Monte Argentario GR, Italy",
+      "Updated" : "2017-07-20T11:00:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.5816280, 52.5639450 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7015741299588059921",
+      "Location" : {
+        "Address" : "Marzahn-Hellersdorf, 12689 Berlin, Germany",
+        "Business Name" : "Wuhletalwächter",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5639450",
+          "Longitude" : "13.5816280"
+        }
+      },
+      "Published" : "2017-06-11T12:59:34Z",
+      "Title" : "Wuhletalwächter",
+      "Updated" : "2017-06-11T12:59:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -108.836434, 36.686669 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ship+Rock,+New+Mexico,+USA&ftid=0x873a4ceb70dd12c3:0xb4635c62cb7ed055",
+      "Location" : {
+        "Latitude" : "36.686669",
+        "Longitude" : "-108.836434"
+      },
+      "Published" : "2017-06-08T15:05:56Z",
+      "Title" : "Ship Rock",
+      "Updated" : "2017-06-08T15:05:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.472590, 52.754918 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Prenzlauer+Chaussee+150,+16348+Wandlitz,+Deutschland&ftid=0x47a9afad21c40149:0xee3c0feebe7cfd75",
+      "Location" : {
+        "Latitude" : "52.754918",
+        "Longitude" : "13.472590"
+      },
+      "Published" : "2017-06-07T15:06:35Z",
+      "Title" : "Prenzlauer Chaussee 150, 16348 Wandlitz, Deutschland",
+      "Updated" : "2017-06-07T15:06:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.047312, 45.707065 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=SP469,+1,+24060+Tavernola+Bergamasca+BG,+Italy&ftid=0x47816395ac667ca7:0x75c75470114c81ad",
+      "Location" : {
+        "Latitude" : "45.707065",
+        "Longitude" : "10.047312"
+      },
+      "Published" : "2017-03-29T14:46:18Z",
+      "Title" : "SP469, 1, 24060 Tavernola Bergamasca BG, Italy",
+      "Updated" : "2017-03-29T14:46:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 9.397670, 45.856570 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=23900+Lecco,+Province+of+Lecco,+Italy&ftid=0x478402d32a793355:0x8f7caba70bc80602",
+      "Location" : {
+        "Latitude" : "45.856570",
+        "Longitude" : "9.397670"
+      },
+      "Published" : "2017-03-29T14:43:06Z",
+      "Title" : "Lecco, Province of Lecco, Italy",
+      "Updated" : "2017-03-29T14:43:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.106111, 50.791944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=D%C4%9B%C4%8D%C3%ADnsk%C3%BD+Sn%C4%9B%C5%BEn%C3%ADk,+405+02+J%C3%ADlov%C3%A9,+Czechia&ftid=0x470998cb6ff843b9:0xf344f00145c18920",
+      "Location" : {
+        "Latitude" : "50.791944",
+        "Longitude" : "14.106111"
+      },
+      "Published" : "2017-03-28T08:35:09Z",
+      "Title" : "Děčínský Sněžník",
+      "Updated" : "2017-03-28T08:35:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 9.677270, 45.698264 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bergamo,+Province+of+Bergamo,+Italy&ftid=0x47815111bc62ae73:0xd32fcb8f0be5a4d1",
+      "Location" : {
+        "Latitude" : "45.698264",
+        "Longitude" : "9.677270"
+      },
+      "Published" : "2017-03-10T21:24:35Z",
+      "Title" : "Bergamo, Province of Bergamo, Italy",
+      "Updated" : "2017-03-10T21:24:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 20.7675117, 48.9994708 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17142259548108882191",
+      "Location" : {
+        "Address" : "053 61 Žehra, Slovakia",
+        "Business Name" : "Spiš Castle",
+        "Country Code" : "SK",
+        "Geo Coordinates" : {
+          "Latitude" : "48.9994708",
+          "Longitude" : "20.7675117"
+        }
+      },
+      "Published" : "2017-01-28T09:58:45Z",
+      "Title" : "Spiš Castle",
+      "Updated" : "2017-01-28T09:58:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.401945, 52.537752 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Arkonapl.+4,+10435+Berlin&ftid=0x47a851fa213a7959:0x3761ade4cd8db45b",
+      "Location" : {
+        "Latitude" : "52.537752",
+        "Longitude" : "13.401945"
+      },
+      "Published" : "2017-01-22T15:49:13Z",
+      "Title" : "Arkonaplatz 4, 10435 Berlin",
+      "Updated" : "2017-01-22T15:49:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.943816, 49.286868 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Za+Strugiem+37A,+34-500+Zakopane,+Poland&ftid=0x4715f2bccc42e2a9:0x29fc597a89a6e710",
+      "Location" : {
+        "Latitude" : "49.286868",
+        "Longitude" : "19.943816"
+      },
+      "Published" : "2016-12-28T23:47:11Z",
+      "Title" : "Za Strugiem 37A, 34-500 Zakopane, Poland",
+      "Updated" : "2016-12-28T23:47:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4477725, 50.1068118 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10952752697681744273",
+      "Location" : {
+        "Address" : "Poupětova 1, 170 00 Praha 7, Czechia",
+        "Business Name" : "DOX Centre for Contemporary Art",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.1068118",
+          "Longitude" : "14.4477725"
+        }
+      },
+      "Published" : "2016-12-12T16:33:57Z",
+      "Title" : "DOX Centre for Contemporary Art",
+      "Updated" : "2016-12-12T16:33:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.410311, 52.533186 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Schwedter+Str.+263,+10119+Berlin&ftid=0x47a851fd16965b0b:0x70072fe286769fef",
+      "Location" : {
+        "Latitude" : "52.533186",
+        "Longitude" : "13.410311"
+      },
+      "Published" : "2016-11-13T19:46:46Z",
+      "Title" : "Schwedter Straße 263, 10119 Berlin",
+      "Updated" : "2016-11-13T19:46:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.845477, 51.194245 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=51.19424523837504,14.845477379858496",
+      "Location" : {
+        "Latitude" : "51.194245",
+        "Longitude" : "14.845477"
+      },
+      "Published" : "2016-10-01T13:23:03Z",
+      "Title" : "51.19424523837504,14.845477379858496",
+      "Updated" : "2016-10-01T13:23:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.366360, 52.503160 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=L%C3%BCtzowstra%C3%9Fe+23,+10785+Berlin&ftid=0x47a8504aa4579ee9:0xc9a81b99d3e4e4e8",
+      "Location" : {
+        "Latitude" : "52.503160",
+        "Longitude" : "13.366360"
+      },
+      "Published" : "2016-09-30T12:27:48Z",
+      "Title" : "Lützowstraße 23, 10785 Berlin",
+      "Updated" : "2016-09-30T12:27:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.4415939, 49.0511239 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14957422565468995392",
+      "Location" : {
+        "Address" : "373 41 Hluboká nad Vltavou, Czechia",
+        "Business Name" : "The State Chateau of Hluboká",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "49.0511239",
+          "Longitude" : "14.4415939"
+        }
+      },
+      "Published" : "2016-09-05T15:43:44Z",
+      "Title" : "The State Chateau of Hluboká",
+      "Updated" : "2016-09-05T15:43:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.4719221, 41.8942034 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12930164919422236453",
+      "Location" : {
+        "Address" : "Piazza Capo di Ferro, 13, 00186 Roma RM, Italy",
+        "Business Name" : "Spada Gallery",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8942034",
+          "Longitude" : "12.4719221"
+        }
+      },
+      "Published" : "2016-09-04T17:54:17Z",
+      "Title" : "Spada Gallery",
+      "Updated" : "2016-09-04T17:54:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.274053, 43.961875 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=43.96187482016925,10.274052768945694",
+      "Location" : {
+        "Latitude" : "43.961875",
+        "Longitude" : "10.274053"
+      },
+      "Published" : "2016-08-21T11:01:59Z",
+      "Title" : "43.96187482016925,10.274052768945694",
+      "Updated" : "2016-08-21T11:01:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.094503, 42.409890 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.409889663820614,11.094502955675125",
+      "Location" : {
+        "Latitude" : "42.409890",
+        "Longitude" : "11.094503"
+      },
+      "Published" : "2016-08-21T10:56:27Z",
+      "Title" : "42.409889663820614,11.094502955675125",
+      "Updated" : "2016-08-21T10:56:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.092555, 42.415002 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.41500205232973,11.092555336654186",
+      "Location" : {
+        "Latitude" : "42.415002",
+        "Longitude" : "11.092555"
+      },
+      "Published" : "2016-08-18T06:54:43Z",
+      "Title" : "42.41500205232973,11.092555336654186",
+      "Updated" : "2016-08-18T06:54:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.574947, 46.480738 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=46.480737909073646,8.574947454035282",
+      "Location" : {
+        "Latitude" : "46.480738",
+        "Longitude" : "8.574947"
+      },
+      "Published" : "2016-08-16T17:14:49Z",
+      "Title" : "46.480737909073646,8.574947454035282",
+      "Updated" : "2016-08-16T17:14:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.662797, 46.454605 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Fontanalba+8,+6696+Fusio,+Switzerland&ftid=0x4785a1cdc9a79f25:0x226adf2dd11b80b7",
+      "Location" : {
+        "Latitude" : "46.454605",
+        "Longitude" : "8.662797"
+      },
+      "Published" : "2016-08-16T17:14:25Z",
+      "Title" : "Fontanalba 8, 6696 Fusio, Switzerland",
+      "Updated" : "2016-08-16T17:14:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.6300790, 46.1552722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13432207416874380072",
+      "Location" : {
+        "Address" : "6657 Palagnedra, Switzerland",
+        "Business Name" : "San Michele",
+        "Country Code" : "CH",
+        "Geo Coordinates" : {
+          "Latitude" : "46.1552722",
+          "Longitude" : "8.6300790"
+        }
+      },
+      "Published" : "2016-08-16T17:13:40Z",
+      "Title" : "San Michele",
+      "Updated" : "2016-08-16T17:13:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.492754, 46.124977 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=46.12497709950418,8.492753840982914",
+      "Location" : {
+        "Latitude" : "46.124977",
+        "Longitude" : "8.492754"
+      },
+      "Published" : "2016-08-16T17:12:49Z",
+      "Title" : "46.12497709950418,8.492753840982914",
+      "Updated" : "2016-08-16T17:12:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.489152, 46.141468 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Via+alla+Pila,+5-7,+28852+Craveggia+VB,+Italy&ftid=0x4785ebc0cd546629:0x72f693a858a346ef",
+      "Location" : {
+        "Latitude" : "46.141468",
+        "Longitude" : "8.489152"
+      },
+      "Published" : "2016-08-16T17:11:59Z",
+      "Title" : "Via alla Pila, 5, 28852 Craveggia VB, Italy",
+      "Updated" : "2016-08-16T17:11:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.416510, 46.422606 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=46.42260598976232,8.416510038077831",
+      "Location" : {
+        "Latitude" : "46.422606",
+        "Longitude" : "8.416510"
+      },
+      "Published" : "2016-08-16T17:01:10Z",
+      "Title" : "46.42260598976232,8.416510038077831",
+      "Updated" : "2016-08-16T17:01:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.7019950, 42.9295390 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7504885868960480105",
+      "Location" : {
+        "Address" : "Via San Filippo, 23, 53023 Bagni S.Filippo, Castiglione d'Orcia SI, Italy",
+        "Business Name" : "Terme San Filippo",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "42.9295390",
+          "Longitude" : "11.7019950"
+        }
+      },
+      "Published" : "2016-08-14T06:31:50Z",
+      "Title" : "Terme San Filippo",
+      "Updated" : "2016-08-14T06:31:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.7198080, 50.5390110 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8483309166101901232",
+      "Location" : {
+        "Address" : "Bezděz 144, 472 01 Doksy, Czechia",
+        "Business Name" : "State Castle Bezděz",
+        "Country Code" : "CZ",
+        "Geo Coordinates" : {
+          "Latitude" : "50.5390110",
+          "Longitude" : "14.7198080"
+        }
+      },
+      "Published" : "2016-07-25T23:35:56Z",
+      "Title" : "Státní hrad Bezděz",
+      "Updated" : "2016-07-25T23:35:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.832222, 38.621944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=89866+Capo+Vaticano,+Province+of+Vibo+Valentia,+Italy&ftid=0x1315744c593e9223:0x26406bff04a34381",
+      "Location" : {
+        "Latitude" : "38.621944",
+        "Longitude" : "15.832222"
+      },
+      "Published" : "2016-07-21T23:47:28Z",
+      "Title" : "Capo Vaticano, Italy",
+      "Updated" : "2016-07-21T23:47:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.396924, 52.691518 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=M%C3%BChlenbecker+See,+M%C3%BChlenbeck,+M%C3%BChlenbecker+Land&ftid=0x47a9ac42092f3591:0xb9b0444cdacaa776",
+      "Location" : {
+        "Latitude" : "52.691518",
+        "Longitude" : "13.396924"
+      },
+      "Published" : "2016-07-08T16:31:34Z",
+      "Title" : "Mühlenbecker See",
+      "Updated" : "2016-07-08T16:31:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.829546, 52.567499 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=B%C3%B6tzsee,+Strausberg&ftid=0x47a8334781fa3319:0xcaa87eac7a8408b4",
+      "Location" : {
+        "Latitude" : "52.567499",
+        "Longitude" : "13.829546"
+      },
+      "Published" : "2016-07-08T16:27:56Z",
+      "Title" : "Bötzsee",
+      "Updated" : "2016-07-08T16:27:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3736111, 52.4883333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4880535004775580974",
+      "Location" : {
+        "Address" : "Kreuzbergstraße 42B, 10965 Berlin, Germany",
+        "Business Name" : "Kurhaus Ponte Rosa",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4883333",
+          "Longitude" : "13.3736111"
+        }
+      },
+      "Published" : "2016-07-07T09:09:38Z",
+      "Title" : "Kurhaus Ponte Rosa",
+      "Updated" : "2016-07-07T09:09:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.8541919, 38.8788019 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9306701920605201787",
+      "Location" : {
+        "Address" : "Viale Spartivento, 09010 Chia CA, Italy",
+        "Business Name" : "Spiaggia di Cala Cipolla",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "38.8788019",
+          "Longitude" : "8.8541919"
+        }
+      },
+      "Published" : "2016-06-16T07:09:36Z",
+      "Title" : "spiaggia di Cala Cipolla",
+      "Updated" : "2016-06-16T07:09:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 29.590530, 36.186737 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Andifli,+Demokrasi+Cd.,+07580+Ka%C5%9F/Antalya,+Turkey&ftid=0x14c1d0b011a31b9d:0x3f1d37052c324a28",
+      "Location" : {
+        "Latitude" : "36.186737",
+        "Longitude" : "29.590530"
+      },
+      "Published" : "2016-05-07T23:55:37Z",
+      "Title" : "Andifli Mahallesi, Demokrasi Caddesi, 07580 Kaş/Antalya, Turkey",
+      "Updated" : "2016-05-07T23:55:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.2133850, 40.9595810 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18398688121315747763",
+      "Location" : {
+        "Address" : "Località Rocca Ruja, 07040 Stintino SS, Italy",
+        "Business Name" : "Windsurfing Center Stintino Escursioni Asinara Trips Catamarani",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.9595810",
+          "Longitude" : "8.2133850"
+        }
+      },
+      "Published" : "2016-04-06T04:41:25Z",
+      "Title" : "windsurfing center stintino",
+      "Updated" : "2016-04-06T04:41:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 7.3365473, 50.2052269 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17799505289730524532",
+      "Location" : {
+        "Address" : "56294 Wierschem, Germany",
+        "Business Name" : "Eltz Castle",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "50.2052269",
+          "Longitude" : "7.3365473"
+        }
+      },
+      "Published" : "2016-03-25T15:21:30Z",
+      "Title" : "Eltz Castle",
+      "Updated" : "2016-03-25T15:21:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.422880, 52.469440 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Warthestra%C3%9Fe+45,+12051+Berlin&ftid=0x47a84f913b4f117b:0x72bd3c7d1ba7f75f",
+      "Location" : {
+        "Latitude" : "52.469440",
+        "Longitude" : "13.422880"
+      },
+      "Published" : "2015-10-31T15:26:10Z",
+      "Title" : "Warthestraße 45, 12051 Berlin",
+      "Updated" : "2015-10-31T15:26:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.287778, 50.469167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Prachovske+Skaly,+506+01+Z%C3%A1most%C3%AD-Blata,+Czech+Republic&ftid=0x470ea5736559ea73:0xfb39fcabb6251780",
+      "Location" : {
+        "Latitude" : "50.469167",
+        "Longitude" : "15.287778"
+      },
+      "Published" : "2015-09-20T09:36:08Z",
+      "Title" : "Prachovske Skaly",
+      "Updated" : "2015-09-20T09:36:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.023303, 53.152028 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Lake+Stechlin&ftid=0x47a9685320f3cf79:0xac88bd42cafba8d6",
+      "Location" : {
+        "Latitude" : "53.152028",
+        "Longitude" : "13.023303"
+      },
+      "Published" : "2015-08-05T09:45:13Z",
+      "Title" : "Lake Stechlin",
+      "Updated" : "2015-08-05T09:45:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.605191, 52.538029 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Stendaler+Str.+24,+12627+Berlin,+Germany&ftid=0x47a84a348ac43163:0x563a02dc2c5a80d3",
+      "Location" : {
+        "Latitude" : "52.538029",
+        "Longitude" : "13.605191"
+      },
+      "Published" : "2015-07-27T12:47:09Z",
+      "Title" : "Stendaler Straße 24, 12627 Berlin, Germany",
+      "Updated" : "2015-07-27T12:47:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 9.499526, 39.811146 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=08040+Ulassai+OG,+Italy&ftid=0x12de16f65ea755d9:0xe0b2af48347fdcec",
+      "Location" : {
+        "Latitude" : "39.811146",
+        "Longitude" : "9.499526"
+      },
+      "Published" : "2015-03-10T09:45:58Z",
+      "Title" : "Ulassai OG, Italy",
+      "Updated" : "2015-03-10T09:45:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.9016455, 46.6596592 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16361966534290946351",
+      "Location" : {
+        "Address" : "MO-FR 08:05 - 16:45 AT, Kassen für Kärntner Skipass geöffnet!, Kanzelplatz 2, 9520 Annenheim, Austria",
+        "Business Name" : "Gerlitzen Kanzelbahn",
+        "Country Code" : "AT",
+        "Geo Coordinates" : {
+          "Latitude" : "46.6596592",
+          "Longitude" : "13.9016455"
+        }
+      },
+      "Published" : "2015-01-18T18:22:33Z",
+      "Title" : "Gerlitzen Kanzelbahn",
+      "Updated" : "2015-01-18T18:22:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.1550660, 43.1494740 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15929630628721836143",
+      "Location" : {
+        "Address" : "Strada Comunale di San Galgano, 53012 Chiusdino SI, Italy",
+        "Business Name" : "Abbey of San Galgano",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "43.1494740",
+          "Longitude" : "11.1550660"
+        }
+      },
+      "Published" : "2014-08-05T13:00:56Z",
+      "Title" : "Abbey of St Galgano",
+      "Updated" : "2014-08-05T13:00:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.6328350, 46.4972303 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15981952150988433020",
+      "Location" : {
+        "Address" : "Ratzesweg, 7, 39040 Seis, Südtirol, Italy",
+        "Business Name" : "Tierser-Alpl-Hütte",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "46.4972303",
+          "Longitude" : "11.6328350"
+        }
+      },
+      "Published" : "2014-07-31T16:05:02Z",
+      "Title" : "Schutzhaus Tierser Alpl",
+      "Updated" : "2014-07-31T16:05:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.485947, 53.165205 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Wittstock, Germany&ftid=0x47a94c85f6c17691:0x42120465b5e5c80",
+      "Location" : {
+        "Latitude" : "53.165205",
+        "Longitude" : "12.485947"
+      },
+      "Published" : "2014-03-21T21:28:52Z",
+      "Title" : "Wittstock, Germany",
+      "Updated" : "2014-03-21T21:28:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.075631, 51.996473 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jüterbog, Germany&ftid=0x47a8788d96c95cd3:0xf196bced8a54e1b2",
+      "Location" : {
+        "Latitude" : "51.996473",
+        "Longitude" : "13.075631"
+      },
+      "Published" : "2014-03-21T21:28:20Z",
+      "Title" : "Jüterbog, Germany",
+      "Updated" : "2014-03-21T21:28:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.5778259, 48.7798829 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17306403067422943591",
+      "Location" : {
+        "Address" : "Zámok a okolie 1, 972 01 Bojnice, Slovakia",
+        "Business Name" : "Bojnicky zamok Slovakia",
+        "Country Code" : "SK",
+        "Geo Coordinates" : {
+          "Latitude" : "48.7798829",
+          "Longitude" : "18.5778259"
+        }
+      },
+      "Published" : "2014-02-19T10:55:01Z",
+      "Title" : "Zamek Bojnicki",
+      "Updated" : "2014-02-19T10:55:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.8306587, 53.4597583 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15554354318494070637",
+      "Location" : {
+        "Address" : "Kargower Straße 12, 17192 Kargow, Germany",
+        "Business Name" : "Nationalpark Müritz",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "53.4597583",
+          "Longitude" : "12.8306587"
+        }
+      },
+      "Published" : "2014-02-11T21:14:42Z",
+      "Title" : "Nationalpark Müritz",
+      "Updated" : "2014-02-11T21:14:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 16.643692, 48.888224 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Dolní Věstonice, Czech Republic&ftid=0x4712cc214bb2a42b:0xf92db8c108eaa44e",
+      "Location" : {
+        "Latitude" : "48.888224",
+        "Longitude" : "16.643692"
+      },
+      "Published" : "2013-09-19T23:38:44Z",
+      "Title" : "Dolní Věstonice, Czech Republic",
+      "Updated" : "2013-09-19T23:38:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 9.6898140, 40.1078959 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9981089401194918007",
+      "Location" : {
+        "Address" : "Località Cala Goloritzè, 08040 Baunei NU, Italy",
+        "Business Name" : "Cala Goloritzè",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "40.1078959",
+          "Longitude" : "9.6898140"
+        }
+      },
+      "Published" : "2013-09-01T10:34:25Z",
+      "Title" : "Cala Goloritzè",
+      "Updated" : "2013-09-01T10:34:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.418718, 40.294220 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=roca+vecchia&ftid=0x134437db9d54f101:0x8267d7d710a71115",
+      "Location" : {
+        "Latitude" : "40.294220",
+        "Longitude" : "18.418718"
+      },
+      "Published" : "2013-07-15T10:41:22Z",
+      "Title" : "73026 Roca Vecchia Province of Lecce, Italy",
+      "Updated" : "2013-07-15T10:41:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 9.645493, 39.661127 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Melisenda,+Foxi+Lioni,+Italy&ftid=0x12de26a7e3ba6609:0xec531a0fb1d3140d",
+      "Location" : {
+        "Latitude" : "39.661127",
+        "Longitude" : "9.645493"
+      },
+      "Published" : "2013-07-14T22:26:53Z",
+      "Title" : "Melisenda",
+      "Updated" : "2013-07-14T22:26:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.632223, 51.537826 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15797171981208998821",
+      "Location" : {
+        "Latitude" : "51.537826",
+        "Longitude" : "14.632223"
+      },
+      "Published" : "2013-06-04T07:56:25Z",
+      "Title" : "Azaleen- Und Rhododendronpark Kromlau",
+      "Updated" : "2013-06-04T07:56:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.902764, 49.898813 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bamberg&ftid=0x47a2230538d4beb5:0x41db728f061d980",
+      "Location" : {
+        "Latitude" : "49.898813",
+        "Longitude" : "10.902764"
+      },
+      "Published" : "2013-05-24T17:38:22Z",
+      "Title" : "Bamberg",
+      "Updated" : "2013-05-24T17:38:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.619077, 49.068626 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Zadov+351,+384+73+Stachy,+Czech+Republic&ftid=0x4774cfc20dcbffdd:0xfb7ba81780eed9ee",
+      "Location" : {
+        "Latitude" : "49.068626",
+        "Longitude" : "13.619077"
+      },
+      "Published" : "2012-04-18T08:23:26Z",
+      "Title" : "Zadov 351, 384 73 Stachy, Czech Republic",
+      "Updated" : "2012-04-18T08:23:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 11.208460, 42.436474 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=42.436474,11.20846",
+      "Location" : {
+        "Latitude" : "42.436474",
+        "Longitude" : "11.208460"
+      },
+      "Published" : "2012-02-12T13:56:09Z",
+      "Title" : "Via Gioberti",
+      "Updated" : "2012-02-12T13:56:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.102037, 49.569594 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=49.569594,14.102037",
+      "Location" : {
+        "Latitude" : "49.569594",
+        "Longitude" : "14.102037"
+      },
+      "Published" : "2012-02-12T13:42:31Z",
+      "Title" : "Sedlečko",
+      "Updated" : "2012-02-12T13:42:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.196432, 49.420547 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=49.420547,14.196432",
+      "Location" : {
+        "Latitude" : "49.420547",
+        "Longitude" : "14.196432"
+      },
+      "Published" : "2012-02-12T13:41:06Z",
+      "Title" : "397 01 Varvažov",
+      "Updated" : "2012-02-12T13:41:06Z"
+    },
+    "type" : "Feature"
+  } ]
+}

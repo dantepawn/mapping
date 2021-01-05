@@ -1,0 +1,46 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 11.1054511, 42.6688121 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x12933f06f2d0ae5b",
+      "Location" : {
+        "Address" : "58100 Alberese, Province of Grosseto, Italy",
+        "Business Name" : "Il giardino di Verde Maremma",
+        "Country Code" : "IT",
+        "Geo Coordinates" : {
+          "Latitude" : "42.6688121",
+          "Longitude" : "11.1054511"
+        }
+      },
+      "Published" : "2019-09-15T17:24:24.804Z",
+      "Review Comment" : "Cheap prices for truly toscanian quality food , not fancy but delicious . Limited vegetarian options",
+      "Star Rating" : 5
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4580779, 52.5095901 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb7ef9eca691d71ec",
+      "Location" : {
+        "Address" : "Gabriel-Max-Straße 2, 10245 Berlin, Germany",
+        "Business Name" : "Il Ritrovo - Cucina Casalinga Popolare",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5095901",
+          "Longitude" : "13.4580779"
+        }
+      },
+      "Published" : "2017-12-17T19:00:06.908Z",
+      "Review Comment" : "Low quality , have low expectations",
+      "Star Rating" : 2
+    },
+    "type" : "Feature"
+  } ]
+}
